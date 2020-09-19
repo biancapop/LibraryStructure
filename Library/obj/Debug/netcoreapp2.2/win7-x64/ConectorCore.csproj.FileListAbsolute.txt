@@ -1,0 +1,219 @@
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\nlog.config
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\appsettings.Development.json
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Properties\launchSettings.json
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.exe
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\appsettings.json
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.deps.json
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.runtimeconfig.json
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.runtimeconfig.dev.json
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.pdb
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.Management.Infrastructure.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Diagnostics.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Management.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Utility.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.ConsoleHost.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Management.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Management.Automation.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.Management.Infrastructure.Native.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.CoreCLR.Eventing.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Security.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.MarkdownRender.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\NJsonSchema.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.IO.FileSystem.AccessControl.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.DirectoryServices.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Threading.AccessControl.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.ApplicationInsights.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Runtime.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Management.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Configuration.ConfigurationManager.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Security.Cryptography.Pkcs.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Markdig.Signed.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.CodeDom.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Security.Cryptography.ProtectedData.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Diagnostics.xml
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Management.xml
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Utility.xml
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.ConsoleHost.xml
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Management.xml
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Management.Automation.xml
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.CoreCLR.Eventing.xml
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Security.xml
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.MarkdownRender.pdb
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.MarkdownRender.xml
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Runtime.xml
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.csproj.CoreCompileInputs.cache
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.RazorAssemblyInfo.cache
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.RazorAssemblyInfo.cs
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.AssemblyInfoInputs.cache
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.AssemblyInfo.cs
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.RazorTargetAssemblyInfo.cache
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.csproj.CopyComplete
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.dll
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.pdb
+E:\1.VisualStudio\ReposGitHubTrabajo\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.genruntimeconfig.cache
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\nlog.config
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\appsettings.Development.json
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Properties\launchSettings.json
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.exe
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\appsettings.json
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.deps.json
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.runtimeconfig.json
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.runtimeconfig.dev.json
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.pdb
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.Management.Infrastructure.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Diagnostics.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Management.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Utility.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.ConsoleHost.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Management.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Management.Automation.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.Management.Infrastructure.Native.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.CoreCLR.Eventing.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Security.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.MarkdownRender.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\NJsonSchema.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.IO.FileSystem.AccessControl.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.DirectoryServices.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Threading.AccessControl.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.ApplicationInsights.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Runtime.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Management.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Configuration.ConfigurationManager.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Security.Cryptography.Pkcs.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Markdig.Signed.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.CodeDom.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Security.Cryptography.ProtectedData.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Diagnostics.xml
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Management.xml
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Utility.xml
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.ConsoleHost.xml
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Management.xml
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Management.Automation.xml
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.CoreCLR.Eventing.xml
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Security.xml
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.MarkdownRender.pdb
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.MarkdownRender.xml
+E:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Runtime.xml
+E:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.RazorAssemblyInfo.cache
+E:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.RazorAssemblyInfo.cs
+E:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.AssemblyInfoInputs.cache
+E:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.AssemblyInfo.cs
+E:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.RazorTargetAssemblyInfo.cache
+E:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.csproj.CopyComplete
+E:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.dll
+E:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.pdb
+E:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.csprojAssemblyReference.cache
+E:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.genruntimeconfig.cache
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\nlog.config
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\appsettings.Development.json
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Properties\launchSettings.json
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.exe
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\appsettings.json
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.deps.json
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.runtimeconfig.json
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.runtimeconfig.dev.json
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.pdb
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.Management.Infrastructure.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Diagnostics.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Management.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Utility.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.ConsoleHost.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Management.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Management.Automation.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.Management.Infrastructure.Native.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.CoreCLR.Eventing.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Security.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.MarkdownRender.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\NJsonSchema.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.IO.FileSystem.AccessControl.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.DirectoryServices.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Threading.AccessControl.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.ApplicationInsights.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Runtime.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Management.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Configuration.ConfigurationManager.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Security.Cryptography.Pkcs.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Markdig.Signed.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.CodeDom.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Security.Cryptography.ProtectedData.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Diagnostics.xml
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Management.xml
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Utility.xml
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.ConsoleHost.xml
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Management.xml
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Management.Automation.xml
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.CoreCLR.Eventing.xml
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Security.xml
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.MarkdownRender.pdb
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.MarkdownRender.xml
+G:\Nueva carpeta (2)\conector\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Runtime.xml
+G:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.csprojAssemblyReference.cache
+G:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.AssemblyInfoInputs.cache
+G:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.AssemblyInfo.cs
+G:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.csproj.CoreCompileInputs.cache
+G:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.RazorAssemblyInfo.cache
+G:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.RazorAssemblyInfo.cs
+G:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.RazorTargetAssemblyInfo.cache
+G:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.csproj.CopyComplete
+G:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.dll
+G:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.pdb
+G:\Nueva carpeta (2)\conector\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.genruntimeconfig.cache
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\nlog.config
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\appsettings.Development.json
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Properties\launchSettings.json
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.exe
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\appsettings.json
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.deps.json
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.runtimeconfig.json
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.runtimeconfig.dev.json
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\ConectorCore.pdb
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.Management.Infrastructure.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Diagnostics.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Management.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Utility.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.ConsoleHost.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Management.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Management.Automation.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.Management.Infrastructure.Native.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.CoreCLR.Eventing.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Security.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.MarkdownRender.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\NJsonSchema.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.IO.FileSystem.AccessControl.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.DirectoryServices.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Threading.AccessControl.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.ApplicationInsights.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Runtime.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Management.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Configuration.ConfigurationManager.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Security.Cryptography.Pkcs.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Markdig.Signed.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.CodeDom.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Security.Cryptography.ProtectedData.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Diagnostics.xml
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Management.xml
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Commands.Utility.xml
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.ConsoleHost.xml
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Management.xml
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\System.Management.Automation.xml
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.CoreCLR.Eventing.xml
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.Security.xml
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.MarkdownRender.pdb
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.PowerShell.MarkdownRender.xml
+E:\1.VisualStudio\biblioteca pro\ConectorCore\bin\Debug\netcoreapp2.2\win7-x64\Microsoft.WSMan.Runtime.xml
+E:\1.VisualStudio\biblioteca pro\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.AssemblyInfoInputs.cache
+E:\1.VisualStudio\biblioteca pro\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.AssemblyInfo.cs
+E:\1.VisualStudio\biblioteca pro\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.csproj.CoreCompileInputs.cache
+E:\1.VisualStudio\biblioteca pro\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.RazorAssemblyInfo.cache
+E:\1.VisualStudio\biblioteca pro\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.RazorAssemblyInfo.cs
+E:\1.VisualStudio\biblioteca pro\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.RazorTargetAssemblyInfo.cache
+E:\1.VisualStudio\biblioteca pro\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.csproj.CopyComplete
+E:\1.VisualStudio\biblioteca pro\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.dll
+E:\1.VisualStudio\biblioteca pro\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.pdb
+E:\1.VisualStudio\biblioteca pro\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.genruntimeconfig.cache
+E:\1.VisualStudio\biblioteca pro\ConectorCore\obj\Debug\netcoreapp2.2\win7-x64\ConectorCore.csprojAssemblyReference.cache
